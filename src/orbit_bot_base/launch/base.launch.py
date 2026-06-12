@@ -9,13 +9,13 @@ def generate_launch_description():
             name='base_driver',
             output='screen',
             parameters=[
-                {'wheel_radius': 0.04},
-                {'track_width': 0.26},
+                {'wheel_radius': 0.039},
+                {'track_width': 0.259},
                 {'cpr': 2320.0},
-                {'max_rpm': 333.0},
+                {'max_rpm': 58.2},
                 {'max_linear_speed': 1.4},
                 {'max_angular_speed': 1.0},
-                {'left_pwm_multiplier': 0.9435},
+                {'left_pwm_multiplier': 0.9812},
                 {'right_pwm_multiplier': 1.0},
                 {'serial_port': '/dev/ttyCH341USB0'},
                 {'baud_rate': 115200}
