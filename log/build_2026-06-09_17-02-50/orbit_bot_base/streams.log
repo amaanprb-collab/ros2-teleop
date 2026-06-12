@@ -1,0 +1,26 @@
+[0.780s] Invoking command in '/home/draco/ros2_ws/build/orbit_bot_base': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/draco/ros2_ws/build/orbit_bot_base/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/draco/ros2_ws/build/orbit_bot_base/build --no-deps symlink_data
+[1.080s] running develop
+[1.262s] running egg_info
+[1.262s] creating orbit_bot_base.egg-info
+[1.280s] writing orbit_bot_base.egg-info/PKG-INFO
+[1.281s] writing dependency_links to orbit_bot_base.egg-info/dependency_links.txt
+[1.281s] writing entry points to orbit_bot_base.egg-info/entry_points.txt
+[1.281s] writing requirements to orbit_bot_base.egg-info/requires.txt
+[1.281s] writing top-level names to orbit_bot_base.egg-info/top_level.txt
+[1.281s] writing manifest file 'orbit_bot_base.egg-info/SOURCES.txt'
+[1.318s] reading manifest file 'orbit_bot_base.egg-info/SOURCES.txt'
+[1.319s] writing manifest file 'orbit_bot_base.egg-info/SOURCES.txt'
+[1.338s] running build_ext
+[1.340s] Creating /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit-bot-base.egg-link (link to .)
+[1.341s] Installing base_driver script to /home/draco/ros2_ws/install/orbit_bot_base/lib/orbit_bot_base
+[1.341s] 
+[1.341s] Installed /home/draco/ros2_ws/build/orbit_bot_base
+[1.341s] running symlink_data
+[1.341s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index
+[1.341s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index
+[1.341s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index/packages
+[1.341s] symbolically linking /home/draco/ros2_ws/build/orbit_bot_base/resource/orbit_bot_base -> /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index/packages
+[1.342s] symbolically linking /home/draco/ros2_ws/build/orbit_bot_base/package.xml -> /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base
+[1.342s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base/launch
+[1.342s] symbolically linking /home/draco/ros2_ws/build/orbit_bot_base/launch/base.launch.py -> /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base/launch
+[1.373s] Invoked command in '/home/draco/ros2_ws/build/orbit_bot_base' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/draco/ros2_ws/build/orbit_bot_base/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/draco/ros2_ws/build/orbit_bot_base/build --no-deps symlink_data

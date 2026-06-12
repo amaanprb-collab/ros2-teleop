@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating orbit_bot_base.egg-info
+writing orbit_bot_base.egg-info/PKG-INFO
+writing dependency_links to orbit_bot_base.egg-info/dependency_links.txt
+writing entry points to orbit_bot_base.egg-info/entry_points.txt
+writing requirements to orbit_bot_base.egg-info/requires.txt
+writing top-level names to orbit_bot_base.egg-info/top_level.txt
+writing manifest file 'orbit_bot_base.egg-info/SOURCES.txt'
+reading manifest file 'orbit_bot_base.egg-info/SOURCES.txt'
+writing manifest file 'orbit_bot_base.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit-bot-base.egg-link (link to .)
+Installing base_driver script to /home/draco/ros2_ws/install/orbit_bot_base/lib/orbit_bot_base
+
+Installed /home/draco/ros2_ws/build/orbit_bot_base
+running symlink_data
+creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index
+creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index
+creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index/packages
+symbolically linking /home/draco/ros2_ws/build/orbit_bot_base/resource/orbit_bot_base -> /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index/packages
+symbolically linking /home/draco/ros2_ws/build/orbit_bot_base/package.xml -> /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base
+creating /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base/launch
+symbolically linking /home/draco/ros2_ws/build/orbit_bot_base/launch/base.launch.py -> /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base/launch

@@ -1,0 +1,37 @@
+[0.662s] Invoking command in '/home/draco/ros2_ws/src/orbit_bot_base': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/draco/ros2_ws/build/orbit_bot_base/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/orbit_bot_base build --build-base /home/draco/ros2_ws/build/orbit_bot_base/build install --record /home/draco/ros2_ws/build/orbit_bot_base/install.log --single-version-externally-managed install_data
+[0.847s] running egg_info
+[0.847s] creating ../../build/orbit_bot_base/orbit_bot_base.egg-info
+[0.860s] writing ../../build/orbit_bot_base/orbit_bot_base.egg-info/PKG-INFO
+[0.860s] writing dependency_links to ../../build/orbit_bot_base/orbit_bot_base.egg-info/dependency_links.txt
+[0.860s] writing entry points to ../../build/orbit_bot_base/orbit_bot_base.egg-info/entry_points.txt
+[0.860s] writing requirements to ../../build/orbit_bot_base/orbit_bot_base.egg-info/requires.txt
+[0.860s] writing top-level names to ../../build/orbit_bot_base/orbit_bot_base.egg-info/top_level.txt
+[0.860s] writing manifest file '../../build/orbit_bot_base/orbit_bot_base.egg-info/SOURCES.txt'
+[0.887s] reading manifest file '../../build/orbit_bot_base/orbit_bot_base.egg-info/SOURCES.txt'
+[0.888s] writing manifest file '../../build/orbit_bot_base/orbit_bot_base.egg-info/SOURCES.txt'
+[0.888s] running build
+[0.888s] running build_py
+[0.888s] creating /home/draco/ros2_ws/build/orbit_bot_base/build
+[0.888s] creating /home/draco/ros2_ws/build/orbit_bot_base/build/lib
+[0.888s] creating /home/draco/ros2_ws/build/orbit_bot_base/build/lib/orbit_bot_base
+[0.888s] copying orbit_bot_base/__init__.py -> /home/draco/ros2_ws/build/orbit_bot_base/build/lib/orbit_bot_base
+[0.888s] copying orbit_bot_base/base_driver.py -> /home/draco/ros2_ws/build/orbit_bot_base/build/lib/orbit_bot_base
+[0.888s] running install
+[0.892s] running install_lib
+[0.906s] creating /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit_bot_base
+[0.906s] copying /home/draco/ros2_ws/build/orbit_bot_base/build/lib/orbit_bot_base/__init__.py -> /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit_bot_base
+[0.906s] copying /home/draco/ros2_ws/build/orbit_bot_base/build/lib/orbit_bot_base/base_driver.py -> /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit_bot_base
+[0.907s] byte-compiling /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit_bot_base/__init__.py to __init__.cpython-312.pyc
+[0.907s] byte-compiling /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit_bot_base/base_driver.py to base_driver.cpython-312.pyc
+[0.908s] running install_data
+[0.908s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index
+[0.909s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index
+[0.909s] creating /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index/packages
+[0.909s] copying resource/orbit_bot_base -> /home/draco/ros2_ws/install/orbit_bot_base/share/ament_index/resource_index/packages
+[0.909s] copying package.xml -> /home/draco/ros2_ws/install/orbit_bot_base/share/orbit_bot_base
+[0.909s] running install_egg_info
+[0.923s] Copying ../../build/orbit_bot_base/orbit_bot_base.egg-info to /home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages/orbit_bot_base-0.0.0-py3.12.egg-info
+[0.924s] running install_scripts
+[1.012s] Installing base_driver script to /home/draco/ros2_ws/install/orbit_bot_base/lib/orbit_bot_base
+[1.012s] writing list of installed files to '/home/draco/ros2_ws/build/orbit_bot_base/install.log'
+[1.031s] Invoked command in '/home/draco/ros2_ws/src/orbit_bot_base' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/draco/ros2_ws/build/orbit_bot_base/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/draco/ros2_ws/install/orbit_bot_base/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/orbit_bot_base build --build-base /home/draco/ros2_ws/build/orbit_bot_base/build install --record /home/draco/ros2_ws/build/orbit_bot_base/install.log --single-version-externally-managed install_data

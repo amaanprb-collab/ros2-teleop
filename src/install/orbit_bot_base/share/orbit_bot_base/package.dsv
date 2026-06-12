@@ -1,0 +1,6 @@
+source;share/orbit_bot_base/hook/pythonpath.ps1
+source;share/orbit_bot_base/hook/pythonpath.dsv
+source;share/orbit_bot_base/hook/pythonpath.sh
+source;share/orbit_bot_base/hook/ament_prefix_path.ps1
+source;share/orbit_bot_base/hook/ament_prefix_path.dsv
+source;share/orbit_bot_base/hook/ament_prefix_path.sh
